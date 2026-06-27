@@ -8,7 +8,6 @@
 
 ## 📸 Схема сборки и внешний вид
 
-<!-- Измени имя картинки на свое или загрузи файл schematic.png в корень репозитория -->
 ![Схема подключения джойстика к Arduino Nano](https://github.com/loanelly/DoubleMovementL/blob/main/DoubleMovementL/Screenshots/RightConnection.png)
 
 ---
