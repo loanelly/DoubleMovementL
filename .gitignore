@@ -1,0 +1,22 @@
+# Кэш Python (главный мусор)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Локальные настройки сред разработки (IDLE, PyCharm, VS Code)
+.idea/
+.vscode/
+*.pydevproject
+.project
+.settings/
+
+# Временные папки сборщика PyInstaller (если будете делать .exe)
+build/
+dist/
+*.spec
+
+# Системные файлы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
